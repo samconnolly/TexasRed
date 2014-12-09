@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 71e17a4f1d7a24543815f97feae035f8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: demon_head
+    21300002: demon_hand_L
+    21300004: demon_arm_R
+    21300006: demon_hand_R
+    21300008: demon_arm_L
+    21300010: demon_shoulder_R
+    21300012: demon_shoulder_L
+    21300014: demon_body
+    21300016: demon_foot_R
+    21300018: demon_foot_L
+    21300020: demon_leg_R
+    21300022: demon_leg_L
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: demon_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 321
+        height: 308
+      alignment: 9
+      pivot: {x: .765992284, y: .448252499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_hand_L
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 573
+        width: 148
+        height: 96
+      alignment: 9
+      pivot: {x: .892302454, y: .500000656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_arm_R
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 600
+        width: 156
+        height: 62
+      alignment: 9
+      pivot: {x: .850291729, y: .610173404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_hand_R
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 437
+        width: 148
+        height: 96
+      alignment: 9
+      pivot: {x: .876924694, y: .511859238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_arm_L
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 500
+        width: 140
+        height: 68
+      alignment: 9
+      pivot: {x: .841534436, y: .667419434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_shoulder_R
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 363
+        width: 85
+        height: 109
+      alignment: 9
+      pivot: {x: .721908748, y: .723944724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_shoulder_L
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 390
+        width: 70
+        height: 85
+      alignment: 9
+      pivot: {x: .706058204, y: .643587708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_body
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 176
+        height: 369
+      alignment: 9
+      pivot: {x: .590558231, y: .466062665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_foot_R
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 125
+        height: 327
+      alignment: 9
+      pivot: {x: .509107649, y: .896889806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_foot_L
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12
+        width: 141
+        height: 304
+      alignment: 9
+      pivot: {x: .806815505, y: .88946867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_leg_R
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 201
+        width: 92
+        height: 171
+      alignment: 9
+      pivot: {x: .512374222, y: .752988219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon_leg_L
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 93
+        height: 172
+      alignment: 9
+      pivot: {x: .487758845, y: .777993023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
